@@ -56,10 +56,10 @@
  
 ### 참고 자료
 ***
-구글 api    
-https://cloud.google.com/?hl=ko
-카카오 api    
-https://apis.map.kakao.com/
+구글 api   
+https://cloud.google.com/?hl=ko  
+카카오 api      
+https://apis.map.kakao.com/  
 
 ### 시현 영상
 ***
