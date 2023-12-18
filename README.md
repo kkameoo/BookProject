@@ -2,6 +2,7 @@
 ***
 ### 목차
 ***
+![대문](https://github.com/kkameoo/bikeproject/assets/116774845/734fb4b7-f1c4-4fa4-9e8d-ee5d9a27c50b)
 - [포트폴리오 개요](https://github.com/kkameoo/bikeproject#포트폴리오-개요)
 - [기술 및 도구](https://github.com/kkameoo/bikeproject#기술-및-도구)
 - [백엔드 사용 기술](https://github.com/kkameoo/bikeproject#백엔드-사용-기술)          
