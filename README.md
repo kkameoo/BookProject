@@ -66,8 +66,8 @@ https://apis.map.kakao.com/
 링크 : 
 
 
-# LibraryProject
-### 12.04 오류
+
+### 12.04 오류 내역
 - IllegalStateException: Cannot call sendRedirect() after the response has been committed
 - getRedirectStrategy().sendRedirect() 함수 호출 시 발생하는 오류
 - 원인 - 페이지가 2번 호출되서 발생하는 오류
